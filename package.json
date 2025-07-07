@@ -1,0 +1,53 @@
+{
+  "name": "mekaniko-otg",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@gorhom/bottom-sheet": "^4.4.7",
+    "@react-native-async-storage/async-storage": "1.18.2",
+    "@react-navigation/drawer": "^6.6.3",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/native-stack": "^6.9.13",
+    "@sentry/react-native": "5.10.0",
+    "axios": "^1.5.0",
+    "expo": "~49.0.8",
+    "expo-clipboard": "~4.3.1",
+    "expo-dev-client": "~2.4.13",
+    "expo-document-picker": "~11.5.4",
+    "expo-font": "~11.4.0",
+    "expo-image": "~1.3.5",
+    "expo-image-picker": "~14.3.2",
+    "expo-location": "~16.1.0",
+    "expo-status-bar": "~1.6.0",
+    "firebase": "^10.3.1",
+    "http-proxy-middleware": "^2.0.6",
+    "moment": "^2.29.4",
+    "nativewind": "^2.0.11",
+    "picker": "^0.1.4",
+    "react": "18.2.0",
+    "react-native": "0.72.6",
+    "react-native-maps": "1.7.1",
+    "react-native-dotenv": "^3.4.9",
+    "react-native-elements": "^3.4.3",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-screens": "~3.22.0",
+    "react-native-toast-message": "^2.1.9",
+    "react-redux": "^8.1.2",
+    "redux": "^4.2.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.2",
+    "socket.io-client": "^4.7.2",
+    "whatwg-fetch": "^3.6.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "tailwindcss": "3.3.2"
+  },
+  "private": true
+}

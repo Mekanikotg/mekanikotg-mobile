@@ -1,0 +1,18 @@
+export default COLORS = {
+  black: "#211F23",
+  gray: "#4c4c4c",
+  white: "#fefefe",
+  lightgray: "#acaec5",
+  green: "green",
+  violet: "#6366f1",
+  darkviolet: "#818cf8",
+  yellow: "#fcd34d",
+  green: "#10b981",
+  orange: "#fb923c",
+  darkyellow: "#f59e0b",
+  darkblue: "#60a5fa",
+  red: "#ef4444",
+  blue: "#3b82f6",
+  darkred: "#f87171",
+  extralightgray: "#b4b4b4",
+};

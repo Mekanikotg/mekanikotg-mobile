@@ -1,0 +1,3 @@
+export const SET_SELECTED_CHAT = "SET_SELECTED_CHAT";
+export const SET_CHAT_LIST = "SET_CHAT_LIST";
+export const SET_MODIFY_DONE = "SET_MODIFY_DONE";
